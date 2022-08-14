@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.7.20)  14 AUG 2022 03:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.7.20)  14 AUG 2022 03:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/sobhneekhothi/Desktop/UOFT/HST400/GitHub/HST400/Literature_Review/Literature_Review.tex
-(/Users/sobhneekhothi/Desktop/UOFT/HST400/GitHub/HST400/Literature_Review/Literature_Review.tex
+**/Users/sobhneekhothi/Desktop/UOFT/HST400/GitHub/HST400/Results/Results.tex
+(/Users/sobhneekhothi/Desktop/UOFT/HST400/GitHub/HST400/Results/Results.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> (/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
@@ -48,8 +48,8 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count190
 \l__pdf_internal_box=\box47
-) (/Users/sobhneekhothi/Desktop/UOFT/HST400/GitHub/HST400/Literature_Review/Literature_Review.aux)
-\openout1 = `Literature_Review.aux'.
+) (/Users/sobhneekhothi/Desktop/UOFT/HST400/GitHub/HST400/Results/Results.aux)
+\openout1 = `Results.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
@@ -102,17 +102,17 @@ LaTeX Font Info:    ... okay on input line 4.
 
 [1
 
-{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/Users/sobhneekhothi/Desktop/UOFT/HST400/GitHub/HST400/Literature_Review/Literature_Review.aux) ) 
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/Users/sobhneekhothi/Desktop/UOFT/HST400/GitHub/HST400/Results/Results.aux) ) 
 Here is how much of TeX's memory you used:
  930 strings out of 478994
- 15562 string characters out of 5858184
- 305412 words of memory out of 5000000
+ 15372 string characters out of 5858184
+ 305382 words of memory out of 5000000
  18480 multiletter control sequences out of 15000+600000
  403728 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,4n,74p,252b,100s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,4n,74p,232b,100s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on /Users/sobhneekhothi/Desktop/UOFT/HST400/GitHub/HST400/Literature_Review/Literature_Review.pdf (1 page, 10179 bytes).
+Output written on /Users/sobhneekhothi/Desktop/UOFT/HST400/GitHub/HST400/Results/Results.pdf (1 page, 9326 bytes).
 PDF statistics:
  12 PDF objects out of 1000 (max. 8388607)
  7 compressed objects within 1 object stream
