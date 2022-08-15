@@ -1,4 +1,3 @@
-<!-- omit in toc -->
 # HST400: [Forthcoming Project Title] 
 * **Author:** Sobhneek Hothi
 * **Supervisor:** [Dr. Jennifer Bethell](https://kite-uhn.com/scientist/jennifer-bethell)
@@ -6,11 +5,12 @@
 ---
 ## Table of Contents <!-- omit in toc -->
 
-- [What Is HST400?](#what-is-hst400)
-- [Placement](#placement)
-- [Project Description](#project-description)
-- [Data](#data)
-- [Methodology](#methodology)
+- [HST400: [Forthcoming Project Title]](#hst400-forthcoming-project-title)
+  - [What Is HST400?](#what-is-hst400)
+  - [Placement](#placement)
+  - [Project Description](#project-description)
+  - [Data](#data)
+  - [Methodology](#methodology)
 
 ---
 ## What Is [HST400](https://artsci.calendar.utoronto.ca/course/hst400y1)?
