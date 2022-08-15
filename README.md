@@ -1,3 +1,4 @@
+<!-- omit in toc -->
 # HST400: [Forthcoming Project Title] 
 * **Author:** Sobhneek Hothi
 * **Supervisor:** [Dr. Jennifer Bethell](https://kite-uhn.com/scientist/jennifer-bethell)
@@ -5,7 +6,6 @@
 ---
 ## Table of Contents <!-- omit in toc -->
 
-- [HST400: [Forthcoming Project Title]](#hst400-forthcoming-project-title)
   - [What Is HST400?](#what-is-hst400)
   - [Placement](#placement)
   - [Project Description](#project-description)
