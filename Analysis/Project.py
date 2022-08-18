@@ -6,7 +6,7 @@ import seaborn as sns
 import scipy as sp
 import scipy.stats as stats
 import statsmodels.api as sm
-
+from stargazer.stargazer import Stargazer
 # Importing Data
 
 
