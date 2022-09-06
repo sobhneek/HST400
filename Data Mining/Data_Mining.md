@@ -13,6 +13,8 @@
   - [Considerations for MHACS](#considerations-for-mhacs)
 - [Impacts of COVID-19 on Canadians: Data Collection Series](#impacts-of-covid-19-on-canadians-data-collection-series)
   - [Considerations for ICC](#considerations-for-icc)
+- [Survey on Mental Health and Stressful Events (SMHSE)](#survey-on-mental-health-and-stressful-events-smhse)
+  - [Considerations for SMHSE](#considerations-for-smhse)
 
 ---
 # About
@@ -61,5 +63,20 @@
    - ...
 
 ---
+# Survey on Mental Health and Stressful Events (SMHSE)
 
-To be continued...
+> The purpose of the Survey on Mental Health and Stressful Events is to collect data from Canadians to better understand how stressful events can impact a person's mental health. The survey will also cover mental health status and well-being, post-traumatic stress disorder (PTSD), social support and healthy behaviours, and the access to and use of mental health services. The data will be used by the Public Health Agency of Canada and may be used by other government organizations to inform the delivery of mental health services and support.
+
+   - [Available through Statistics Canada](https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=5341#a1)
+     - Currently would require RDA 
+   - [Questionnaire](https://www23.statcan.gc.ca/imdb/p3Instr.pl?Function=assembleInstr&Item_Id=1297092&TET=1)
+     - I have the intention to use a scraping tool to consolidate the `.html` format provided by Statistics Canada
+
+## Considerations for SMHSE
+
+   - ...
+   - ...
+   - ...
+
+---
+
