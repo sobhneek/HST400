@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# [Forthcoming Project Title] 
+# Forthcoming Project Title...
 * **Author:** Sobhneek Hothi
 * **Supervisor:** [Dr. Jennifer Bethell](https://kite-uhn.com/scientist/jennifer-bethell)
 * **Practicum Course Instructor:** [Dr. Daniel Schluter](https://www.uc.utoronto.ca/staff-faculty-profile/daniel-schluter) <!-- omit in toc -->
