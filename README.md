@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# HST400: [Forthcoming Project Title] 
+# [Forthcoming Project Title] 
 * **Author:** Sobhneek Hothi
 * **Supervisor:** [Dr. Jennifer Bethell](https://kite-uhn.com/scientist/jennifer-bethell)
 * **Practicum Course Instructor:** [Dr. Daniel Schluter](https://www.uc.utoronto.ca/staff-faculty-profile/daniel-schluter) <!-- omit in toc -->
@@ -8,6 +8,7 @@
 
   - [What Is HST400?](#what-is-hst400)
   - [Placement](#placement)
+  - [Topic](#topic)
   - [Project Description](#project-description)
   - [Data](#data)
   - [Methodology](#methodology)
@@ -19,7 +20,11 @@ The [Health Studies Program](https://www.uc.utoronto.ca/health-studies) at the [
 
 ## Placement
 
-TBD..
+My practicum placement will be at [KITE](https://kite-uhn.com); specifically, I will work under the supervision of [Dr. Bethell](https://kite-uhn.com/scientist/jennifer-bethell) in [EnCOAR](https://www.encoarteam.com). At [KITE](https://kite-uhn.com) and [EnCOAR](https://www.encoarteam.com), I will assist [Dr. Bethell](https://kite-uhn.com/scientist/jennifer-bethell) and others in their ongoing projects. My scope of work would include creating grant applications, evaluation reports, conducting data analysis and scoping reviews. On top of completing ongoing tasks with EnCOAR, I will be starting my own research project under the guidance of [Dr. Bethell](https://kite-uhn.com/scientist/jennifer-bethell). This repository will house my progress and polished work for the project.
+
+## Topic
+
+TBD...
 
 ## Project Description
 
