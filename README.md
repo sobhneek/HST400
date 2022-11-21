@@ -1,17 +1,17 @@
 <!-- omit in toc -->
-# Forthcoming Project Title...
+# The Association Between Loneliness and Cognitive Decline
 * **Author:** Sobhneek Hothi
 * **Supervisor:** [Dr. Jennifer Bethell](https://kite-uhn.com/scientist/jennifer-bethell)
 * **Practicum Course Instructor:** [Dr. Daniel Schluter](https://www.uc.utoronto.ca/staff-faculty-profile/daniel-schluter) <!-- omit in toc -->
 ---
 ## Table of Contents <!-- omit in toc -->
 
-  - [What Is HST400?](#what-is-hst400)
-  - [Placement](#placement)
-  - [Topic](#topic)
-  - [Project Description](#project-description)
-  - [Data](#data)
-  - [Methodology](#methodology)
+- [What Is HST400?](#what-is-hst400)
+- [Placement](#placement)
+- [Topic](#topic)
+- [Project Information](#project-information)
+- [Data](#data)
+- [Methodology](#methodology)
 
 ---
 ## What Is [HST400](https://artsci.calendar.utoronto.ca/course/hst400y1)?
@@ -26,9 +26,24 @@ My practicum placement will be at [KITE](https://kite-uhn.com); specifically, I 
 
 TBD...
 
-## Project Description
+## Project Information
 
-TBD...
+**Project Title:** The Association Between Loneliness and Cognitive Decline
+
+**Funding Agency:** Canadian Institutes of Health Research (CIHR)
+
+**Funding Program:** Catalyst Grant: Analysis of CLSA Data
+
+**Principal investigator(s):** Jennifer Bethell
+
+**Co-investigator(s), knowledge user(s) and other partner(s):** 
+- Melissa Andrew
+- Katherine McGilton
+- Debra Morgan
+- Megan O'Connell
+- Natalie Phillips
+- Jennifer Walker
+- Walter Wittich
 
 ## Data
 
